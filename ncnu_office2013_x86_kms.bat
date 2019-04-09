@@ -7,9 +7,9 @@
 @echo Before starting this batch, please connect to intranet of NCNU, otherwise it will fail.
 @echo:
 @pause
-IF EXIST "C:\Program Files(x86)\Microsoft Office\Office15" (
+IF EXIST "C:\Program Files (x86)\Microsoft Office\Office15" (
 @echo on
-cd C:\Program Files(x86)\Microsoft Office\office15
+cd "C:\Program Files (x86)\Microsoft Office\office15"
 cscript ospp.vbs /sethst:10.10.5.135
 cscript ospp.vbs /setprt:1688
 cscript ospp.vbs /act
