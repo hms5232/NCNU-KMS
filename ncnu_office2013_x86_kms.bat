@@ -9,6 +9,7 @@
 @pause
 IF EXIST "C:\Program Files (x86)\Microsoft Office\Office15" (
 @echo on
+c:
 cd "C:\Program Files (x86)\Microsoft Office\office15"
 cscript ospp.vbs /sethst:10.10.5.135
 cscript ospp.vbs /setprt:1688
