@@ -7,15 +7,13 @@
 1. 下載[ncnu_office2016_x86_kms.bat](https://github.com/hms5232/NCNU-Office2016-KMS/blob/master/ncnu_office2016_x86_kms.bat)檔案（以下方式二選一即可）：  
   A. 直接複製全部程式碼後貼入文字編輯器，存成`ncnu_office2016_x86_kms.bat`檔（檔名可選，但副檔名一定要`.bat`）  
   B. 在[本repo的根目錄](https://github.com/hms5232/NCNU-Office2016-KMS)點綠色的`Clone or download▼`按鈕[下載zip](https://github.com/hms5232/NCNU-Office2016-KMS/archive/master.zip)後解壓縮出該檔
-2. 將檔案移動至Office安裝路徑的磁碟機（預設C槽）底下（不限路徑，只要同個磁碟機即可。原因參見[issue#1](https://github.com/hms5232/NCNU-Office2016-KMS/issues/1)）
-3. 滑鼠左鍵點兩下`ncnu_office2016_x86_kms.bat`後依照畫面說明操作，就會自動完成設定金鑰伺服器以及完成認證。
+2. 滑鼠左鍵點兩下`ncnu_office2016_x86_kms.bat`後依照畫面說明操作，就會自動完成設定金鑰伺服器以及完成認證。
 
 ### 64位元
 1. 下載[ncnu_office2016_x64_kms.bat](https://github.com/hms5232/NCNU-Office2016-KMS/blob/master/ncnu_office2016_x64_kms.bat)檔案（以下方式二選一即可）：  
   A. 直接複製全部程式碼後貼入文字編輯器，存成`ncnu_office2016_x64_kms.bat`檔（檔名可選，但副檔名一定要`.bat`）  
   B. 在[本repo的根目錄](https://github.com/hms5232/NCNU-Office2016-KMS)點綠色的`Clone or download▼`按鈕[下載zip](https://github.com/hms5232/NCNU-Office2016-KMS/archive/master.zip)後解壓縮出該檔
-2. 將檔案移動至Office安裝路徑的磁碟機（預設C槽）底下（不限路徑，只要同個磁碟機即可。原因參見[issue#1](https://github.com/hms5232/NCNU-Office2016-KMS/issues/1)）
-3. 滑鼠左鍵點兩下`ncnu_office2016_x64_kms.bat`後依照畫面說明操作，就會自動完成設定金鑰伺服器以及完成認證。
+2. 滑鼠左鍵點兩下`ncnu_office2016_x64_kms.bat`後依照畫面說明操作，就會自動完成設定金鑰伺服器以及完成認證。
 
 ## 回報
 如果有任何問題歡迎使用issue功能，需要更新內容可直接發PR。
