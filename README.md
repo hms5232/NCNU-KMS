@@ -15,6 +15,10 @@
   B. 在[本repo的根目錄](https://github.com/hms5232/NCNU-Office2016-KMS)點綠色的`Clone or download▼`按鈕[下載zip](https://github.com/hms5232/NCNU-Office2016-KMS/archive/master.zip)後解壓縮出該檔
 2. 滑鼠左鍵點兩下`ncnu_office2016_x64_kms.bat`後依照畫面說明操作，就會自動完成設定金鑰伺服器以及完成認證。
 
+## 常見Q&A
+* Q：執行過程中出現`ERROR CODE: 0x80070005`怎麼辦？  
+  A：請改用「以系統管理員身分執行」來執行批次檔。
+
 ## 回報
 如果有任何問題歡迎使用issue功能，需要更新內容可直接發PR。
 
