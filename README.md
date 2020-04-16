@@ -1,7 +1,7 @@
 # NCNU-Win10-KMS
 
 ## 使用說明
-1. 請先確定裝置所在網域為**暨大校園內部網路**，如非者請先使用[VPN](https://sslvpn9.twaren.net/ncnu)等方式連線進入暨大內網。
+1. 請先確定裝置所在網域為**暨大校園內部網路**，如非者請先使用 [VPN](https://ncnuvpn.twaren.net/) 等方式連線進入暨大內網。
 2. 下載[ncnu_win10_x64_kms.bat](https://github.com/hms5232/NCNU-Win10-KMS/blob/master/ncnu_win10_x64_kms.bat)檔案（以下方式二選一即可）：  
   A. 直接複製全部程式碼後貼入文字編輯器，存成`ncnu_win10_x64_kms.bat`檔（檔名可選，但副檔名一定要`.bat`）  
   B. 在[本repo的根目錄](https://github.com/hms5232/NCNU-Win10-KMS)點綠色的`Clone or download▼`按鈕[下載zip](https://github.com/hms5232/NCNU-Win10-KMS/archive/master.zip)後解壓縮出該檔
