@@ -1,7 +1,7 @@
 # NCNU-Office2016-KMS
 
 ## 使用說明
-※請先確定裝置所在網域為**暨大校園內部網路**，如非者請先使用[VPN](https://sslvpn9.twaren.net/ncnu)等方式連線進入暨大內網。  
+※請先確定裝置所在網域為**暨大校園內部網路**，如非者請先使用 [VPN](https://ncnuvpn.twaren.net/) 等方式連線進入暨大內網。  
 ※請確定安裝的版本為32還64位元並依照對應的說明進行操作。
 ### 32位元
 1. 下載[ncnu_office2016_x86_kms.bat](https://github.com/hms5232/NCNU-Office2016-KMS/blob/master/ncnu_office2016_x86_kms.bat)檔案（以下方式二選一即可）：  
